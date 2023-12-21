@@ -1,4 +1,4 @@
-<img align="right" width="150px" style="margin-top:-20px" src="./img/Programação_do_zero.jpeg">
+<img align="right" width="150px" style="margin-top:-20px" src="../img/Programação_do_zero.jpeg">
 
 # Potência Tech iFood - Programação do Zero
 
